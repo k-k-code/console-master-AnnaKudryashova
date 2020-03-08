@@ -1,5 +1,7 @@
 package com.brunoyam.consolemaster.console;
 
+import com.brunoyam.consolemaster.model.Task;
+
 import java.util.Arrays;
 
 public class RequestParser {
